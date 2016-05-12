@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TabLayout">
+        <attr name="tabTextColor" format="color" />
+        <attr name="tabIndicatorColor" format="color" />
+        <attr name="tabSelectedTextColor" format="color"/>
+    </declare-styleable>
+</resources>
